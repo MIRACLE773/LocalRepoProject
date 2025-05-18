@@ -1,1 +1,1 @@
-hello users greeting
+hello, git and github
